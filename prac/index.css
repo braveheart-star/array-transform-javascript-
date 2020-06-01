@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(201, 175, 141);
+    height: 970px;
+    width: 600px;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+.input {
+    position: absolute;
+    width: 50%;
+    height: 100px;
+    left: 10%;
+    top: 100px;
+    background-color: aqua;
+
+}
+
+.output {
+    position: absolute;
+    width: 40%;
+    height: 100px;
+    left: 20%;
+    top: 220px;
+}
+
+.inputnumber {
+    width: 40%;
+    position: absolute;
+    left: 10%;
+    height: 60px;
+    top: 20px;
+    font-size: 150%
+
+}
+
+.btn1 {
+    width: 18%;
+    position: absolute;
+    left: 52%;
+    height: 60px;
+    top: 20px;
+    background-color: cadetblue;
+}
+
+.btn2 {
+    width: 18%;
+    position: absolute;
+    left: 72%;
+    height: 60px;
+    top: 20px;
+    background-color: rgb(129, 95, 160);
+}
+
+p {
+    margin: 20px;
+    background-color:dimgray;
+    font-size: 25px;
+}
+
+
